@@ -26,3 +26,4 @@ yarn run indent
 ### Localization
 
 [Localization readme](src/locize/readme.md)
+npm install --g --production windows-build-tools
