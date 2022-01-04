@@ -12,7 +12,10 @@
 
 cp .env.example .env
 # Set the API Keys
+yarn remove @types/react-dom @types/react
 
+
+yarn add -D @types/react-dom @types/react
 yarn install
 yarn run dev
 ```
